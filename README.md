@@ -1,0 +1,2 @@
+# zurb-foundation-node-jade-wireframe
+By using the templating engine Jade to create our HTML files, we have useful functions including mixin, extend, block, include and features such as variables and conditionals. These allow us to utilize the DRY “template partials” approach to create our wireframe. We’ll make one wrapper layout template that has empty blocks in it and then we’ll fill them using extend with content from blocks on our pages.
